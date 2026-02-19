@@ -1,0 +1,19 @@
+{
+  "name": "mindforhire",
+  "version": "1.0.0",
+  "description": "MindForHire - Autonomous AI Inference Reseller Agent (Conway + ERC-8004 + x402)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "@x402/express": "^0.1.0",
+    "@x402/core": "^0.1.0",
+    "@x402/evm": "^0.1.0",
+    "ethers": "^6.9.0"
+  }
+}
