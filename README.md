@@ -18,6 +18,32 @@ The result is **MindForHire**.
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+### Landing Page
+<img src="docs/screenshots/hero-desktop.png" alt="MindForHire Landing Page" width="800" />
+
+<br/><br/>
+
+### Interactive Playground
+<img src="docs/screenshots/playground-desktop.png" alt="MindForHire Playground" width="800" />
+
+<br/><br/>
+
+### API Documentation
+<img src="docs/screenshots/docs-desktop.png" alt="MindForHire API Docs" width="800" />
+
+<br/><br/>
+
+### Mobile Responsive
+<img src="docs/screenshots/home-mobile.png" alt="MindForHire Mobile View" width="300" />
+
+</div>
+
+---
+
 ## Quick Start
 
 ```bash
